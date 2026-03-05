@@ -1,0 +1,11 @@
+Given two strings s1 and s2, return true if they 
+contain the same characters ignoring all spaces.
+
+Input:  s1 = "ab c", s2 = "a bc"
+Output: true
+
+Input:  s1 = "abc", s2 = "a b c"
+Output: true
+
+Input:  s1 = "ab c", s2 = "a bd"
+Output: false

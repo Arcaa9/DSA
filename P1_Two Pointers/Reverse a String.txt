@@ -1,0 +1,8 @@
+Given a string s, return it reversed.
+Do it in place without using built-in reverse().
+
+Input:  "hello"
+Output: "olleh"
+
+Input:  "abcde"
+Output: "edcba"
