@@ -1,0 +1,16 @@
+Easy:
+1. Two Sum
+2. Contains Duplicate
+3. First Unique Character in String
+4. Ransom Note
+5. Valid Anagram
+6. Word Count
+
+Medium:
+7.  Group Anagrams
+8.  Top K Frequent Elements
+9.  Subarray Sum Equals K
+10. Longest Consecutive Sequence
+11. 4Sum II
+12. Find All Anagrams in String
+13. Minimum Window Substring (HashMap version)

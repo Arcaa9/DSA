@@ -1,0 +1,13 @@
+Easy:
+1. Running Sum of Array
+2. Find Pivot Index
+3. Kids With Greatest Candies
+4. Sum of All Odd Length Subarrays
+
+Medium:
+5.  Subarray Sum Equals K
+6.  Product of Array Except Self
+7.  Range Sum Query
+8.  Continuous Subarray Sum
+9.  Maximum Size Subarray Sum Equals K
+10. Count Number of Nice Subarrays

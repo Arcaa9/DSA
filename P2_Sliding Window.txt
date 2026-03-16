@@ -1,0 +1,60 @@
+── EASY ──────────────────────────────────────
+
+1. Maximum Sum Subarray of Size K
+   Input:  [2, 1, 5, 1, 3, 2], k=3
+   Output: 9
+
+2. Average of All Subarrays of Size K
+   Input:  [1, 3, 2, 6, -1, 4, 1, 8, 2], k=5
+   Output: [2.2, 2.8, 2.4, 3.6, 2.8]
+
+3. First Negative in Every Window of Size K
+   Input:  [12, -1, -7, 8, -15, 30, 16, 28], k=3
+   Output: [-1, -1, -7, -15, -15, 0]
+
+── MEDIUM ────────────────────────────────────
+
+4. Count Occurrences of Anagram
+   Input:  s="abab", p="ab"
+   Output: 3
+
+5. Longest Substring Without Repeating Characters
+   Input:  "abcabcbb"
+   Output: 3
+
+6. Longest Substring with At Most K Distinct Chars
+   Input:  "cbbebi", k=3
+   Output: 5
+
+7. Fruits Into Baskets (At Most 2 Distinct)
+   Input:  [1, 2, 3, 2, 2]
+   Output: 4
+
+8. Max Consecutive Ones III
+   Input:  [1,1,1,0,0,0,1,1,1,1,0], k=2
+   Output: 6
+
+9. Minimum Size Subarray Sum
+   Input:  [2,3,1,2,4,3], target=7
+   Output: 2
+
+10. Permutation in String
+    Input:  s1="ab", s2="eidbaooo"
+    Output: true
+
+── HARD ──────────────────────────────────────
+
+11. Minimum Window Substring → moved to HashMap pattern
+
+── SKIPPED (redo in HashMap) ─────────────────
+→ Longest Repeating Character Replacement
+→ Minimum Window Substring
+
+______________________________________________
+Problems to redo in HashMap pattern
+1. Count Occurrences of Anagram
+2. Longest Substring Without Repeating Chars
+3. Longest Substring with At Most K Distinct
+4. Longest Repeating Character Replacement
+5. Minimum Window Substring
+6. Permutation in String

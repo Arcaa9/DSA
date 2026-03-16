@@ -1,0 +1,15 @@
+Easy:
+1. Valid Parentheses
+2. Implement Stack Using Queues
+3. Baseball Game
+4. Remove Outermost Parentheses
+
+Medium:
+5.  Daily Temperatures
+6.  Evaluate Reverse Polish Notation
+7.  Min Stack
+8.  Next Greater Element
+9.  Asteroid Collision
+10. Decode String
+11. Remove K Digits
+12. Largest Rectangle in Histogram
