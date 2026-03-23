@@ -1,8 +1,0 @@
-Given an array with only 0s, 1s and 2s, 
-sort it in place without using built-in sort.
-
-Input:  [2, 0, 2, 1, 1, 0]
-Output: [0, 0, 1, 1, 2, 2]
-
-Input:  [2, 0, 1]
-Output: [0, 1, 2]

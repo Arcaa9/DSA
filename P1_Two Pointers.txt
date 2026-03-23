@@ -1,0 +1,8 @@
+Valid Palindrome
+Remove Duplicates from Sorted Array
+Move Zeroes
+Merge Sorted Array
+Two Sum II (Sorted Input)
+3Sum
+Container With Most Water
+Trapping Rain Water

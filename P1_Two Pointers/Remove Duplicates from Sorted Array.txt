@@ -1,9 +1,0 @@
-Given a sorted array, remove duplicates in place 
-so each element appears only once.
-Return the count of unique elements.
-
-Input:  [0, 0, 1, 1, 2, 3, 3]
-Output: 5, array = [0, 1, 2, 3, _]
-
-Input:  [1, 1, 2]
-Output: 2, array = [1, 2, _]
