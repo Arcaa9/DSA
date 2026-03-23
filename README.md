@@ -14,4 +14,10 @@
 
 7. Linked List Basics
 
-8. Recursion (Basic)
+8. Recursion (Basic)/ Trees
+
+9. Greedy
+
+10. Heap / Priority Queue
+
+11. Graps
