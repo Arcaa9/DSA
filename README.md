@@ -1,59 +1,78 @@
-# 📘 Learn DSA with Me (Pattern-Based Approach)
+# DSA Prep — Pattern Based Approach
 
 This repository documents my journey of learning Data Structures and Algorithms using a pattern-based approach.
-
-Instead of solving problems randomly, I am focusing on understanding core patterns and applying them across different problems.
+Instead of solving problems randomly, I focus on understanding core patterns and applying them across different problems.
 
 ---
 
-## 🧠 Patterns Covered
+## Patterns Covered
 
-1. Two Pointers  
-2. Sliding Window  
-3. HashMap / Frequency Counter  
-4. Stack / Queue  
-5. Binary Search  
+1. Arrays + Hashing
+2. Sliding Window
+3. Two Pointers
+4. Strings
 5. Binary Search
-6. Prefix Sum
-7. Linked List Basics
-8. Recursion (Basic)/ Trees
-9. Greedy
-10. Heap / Priority Queue
-11. Graps  
+6. Stack
+7. Recursion / Backtracking
 
 ---
 
-## 📂 Repository Structure
+## Problems List
+
+### 1. Arrays + Hashing
+1. Two Sum
+2. Contains Duplicate
+3. Product of Array Except Self
+4. Maximum Subarray (Kadane)
+5. Subarray Sum Equals K
+6. Top K Frequent Elements
+
+### 2. Sliding Window
+1. Longest Substring Without Repeating Characters
+2. Minimum Window Substring
+3. Longest Repeating Character Replacement
+
+### 3. Two Pointers
+1. Container With Most Water
+2. 3Sum
+3. Trapping Rain Water
+
+### 4. Strings
+1. Group Anagrams
+2. Longest Palindromic Substring
+
+### 5. Binary Search
+1. Binary Search
+2. Search in Rotated Sorted Array
+3. Find Peak Element
+
+### 6. Stack
+1. Valid Parentheses
+2. Daily Temperatures
+3. Largest Rectangle in Histogram
+
+### 7. Recursion / Backtracking
+1. Subsets
+2. Combination Sum
+3. Generate Parentheses
+
+---
+
+## Repository Structure
 
 Each pattern folder contains:
-
 - Problem statement (`.txt`)
 - Solution implementation (`.js`)
 
 ---
 
-## 🚀 What I'm Doing
-
-- Solving problems daily  
-- Understanding patterns deeply  
-- Writing clean and structured solutions  
-- Continuously improving problem-solving skills  
-
----
-
-## 🎯 Goal
-
-To build strong problem-solving skills and become confident in tackling coding interviews through pattern recognition and consistent practice.
-
----
-
-## 🛠 Tech Used
+## Tech Used
 
 - JavaScript (Node.js)
 
 ---
 
-## 📌 Note
+## Note
 
 This is an active learning repository — updated regularly as I progress.
 Feel free to explore or follow along!
