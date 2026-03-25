@@ -1,9 +1,0 @@
-Maximum Depth of Binary Tree
-Binary Tree Inorder Traversal
-Validate Binary Search Tree
-Path Sum
-Binary Tree Level Order Traversal
-Binary Tree Right Side View
-Count Good Nodes in Binary Tree
-Lowest Common Ancestor
-Diameter of Binary Tree
