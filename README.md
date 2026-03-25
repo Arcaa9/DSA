@@ -61,8 +61,7 @@ Instead of solving problems randomly, I focus on understanding core patterns and
 ## Repository Structure
 
 Each pattern folder contains:
-- Problem statement (`.txt`)
-- Solution implementation (`.js`)
+- Problem statement (The problem will be commented) and Solution implementation (`.js`). There will also be an explanation
 
 ---
 
